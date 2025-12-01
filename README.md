@@ -5,6 +5,7 @@
 ## Структура проекта
 
 ChessEngine/
+
 ├── src/                   
 │   ├── data/              
 │   ├── models/            
