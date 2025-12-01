@@ -13,9 +13,8 @@ ChessEngine/
 │   ├── main.py            
 │   ├── model.py           
 │   ├── model_test.ipynb   
-│   ├── requirements.txt   
 │   └── move_to_int        
-├── .venv/                 
+├── requirements.txt
 └── README.md              
 
 ## Файлы и их назначение
