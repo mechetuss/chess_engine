@@ -27,7 +27,7 @@ ChessEngine/
 - **requirements.txt** - зависимости Python
 
 ### Модели и данные
-- **models/TORCH_100EPOCHS.pth** - веса обученной модели
+- **models/weights.pth** - веса обученной модели
 - **move_to_int** - словарь для преобразования ходов UCI в числовые индексы
 - **data/** - тренировочные данные в формате PGN
 
