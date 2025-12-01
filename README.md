@@ -36,7 +36,7 @@ ChessEngine/
 ### Через UCI-интерфейс
 ```bash
 cd src
-python main.py
+python3 main.py
 ```
 
 Поддерживаемые команды:
