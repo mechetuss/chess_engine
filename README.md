@@ -12,8 +12,7 @@ ChessEngine/
 │   ├── chess_engine.py    
 │   ├── main.py            
 │   ├── model.py           
-│   ├── model_test.ipynb   
-│   └── move_to_int        
+│   └── model_test.ipynb       
 ├── requirements.txt
 └── README.md              
 ```
