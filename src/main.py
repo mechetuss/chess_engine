@@ -15,7 +15,7 @@ def main():
 
         if command == "uci":
             print("id name ChessNN")
-            print("id author AI")
+            print("id author BT")
             print("uciok")
             sys.stdout.flush()
 
